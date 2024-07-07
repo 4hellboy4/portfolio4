@@ -20,7 +20,4 @@ module.exports = {
       version: 'detect',
     },
   },
-  // Specify the file extensions ESLint should lint
-  // You don't need to specify extensions here if they are already covered in 'parserOptions'
-  // extensions: ['.js', '.jsx', '.ts', '.tsx'],
 };

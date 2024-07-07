@@ -1,4 +1,3 @@
-// src/components/Comic.tsx
 import React, { useState } from 'react';
 import { formatDistanceToNow } from 'date-fns';
 import { XKCDComic } from '../types';
