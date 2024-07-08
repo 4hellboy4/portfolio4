@@ -106,12 +106,11 @@ form input[type="email"] {
     text-align: center;
     width: 80%;
     max-width: 600px;
-    /* Centering content vertically and horizontally */
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100%; /* Ensure the info div takes up full height */
+    height: 100%;
 }
 
 p {
